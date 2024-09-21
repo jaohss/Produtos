@@ -1,4 +1,4 @@
-# Título do projeto
+# Produtos e pessoas
 Este projeto é composto por dois exercícios principais, sendo eles:
 
 Projeto produtos: que consiste em a classe ter atributos de nome, marca, preço de venda e preço de custo, além disso é necessário que haja o retorno do lucro da venda, que é calculado pela diferença do preço da venda - preço do custo
